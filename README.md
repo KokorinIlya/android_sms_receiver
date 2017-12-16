@@ -1,5 +1,5 @@
 # android_sms_receiver
-Android SMS reciever on Java
+Android SMS reciever using Java for Android
 
 Simple android application that recieves SMS, process them and sends answer
 
